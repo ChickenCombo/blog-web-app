@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "First Blog",
+      "body": "Hello to my first blog",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Hello World!",
+      "body": "Hello world!",
+      "author": "Lugi",
+      "id": 2
+    },
+    {
+      "title": "Lipsum",
+      "body": "Lorem ipsum dolor sit amet",
+      "author": "Lorem",
+      "id": 3
+    },
+    {
+      "title": "Lipsum",
+      "body": "Lipsum Lorem",
+      "author": "Mario",
+      "id": 4
+    },
+    {
+      "title": "test ",
+      "body": "test",
+      "author": "Mario",
+      "id": 5
+    }
+  ]
+}
